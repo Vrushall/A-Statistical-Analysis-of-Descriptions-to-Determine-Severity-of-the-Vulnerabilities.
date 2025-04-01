@@ -1,6 +1,6 @@
 # A Statistical Analysis of Descriptions to Determine Severity of the Vulnerabilities
 
-For a thoroughly research paper on this analyis please visit the "Cybersecurity Analysis.pdf" paper in this repository.
+For a thoroughly research paper on this analyis please visit the "Cybersecurity Analysis: A Statistical Analysis of Descriptions to Determine Severity of the Vulnerabilities.pdf" paper in this repository.
 
 
 # Overview
