@@ -1,0 +1,1 @@
+# A-Statistical-Analysis-of-Descriptions-to-Determine-Severity-of-the-Vulnerabilities.
